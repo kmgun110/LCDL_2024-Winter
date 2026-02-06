@@ -1,6 +1,6 @@
 # Logic Circuit Design Lab (ICE2005, 2024 Winter)
 
-Verilog implementations for Logic Circuit, covering combinational logic, sequential circuits, FSM designs, and an RTL accelerator.
+Verilog implementations for Logic Circuit, covering combinational logic, sequential circuits, FSM designs, and RTL accelerator.
 
 ## W2 — XNOR Gate (Behavioral / Dataflow / Gate-Level)
 Implemented an XNOR gate using three modeling styles (behavioral, dataflow, and gate-level).
