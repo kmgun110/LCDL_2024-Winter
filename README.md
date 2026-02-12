@@ -1,4 +1,4 @@
-# Logic Circuit Design Lab (ICE2005, 2024 Winter)
+# Logic Design Laboratory (ICE2005, 2024 Winter)
 
 Verilog implementations for Logic Circuit, covering combinational logic, sequential circuits, FSM designs, and RTL accelerator.
 
